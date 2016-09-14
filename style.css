@@ -1,5 +1,6 @@
 /* --- Components design --- */
 @import url("components/banner.css");
+@import url("components/content.css");
 
 
 /*Google Fonts*/
@@ -11,8 +12,8 @@ font-family: 'Bangers', cursive;*/
 
 /*General Styling*/
 body{
-	background: rgb(30,30,30);
 }
+
 .container-fluid{
 	padding: 0;
 }
