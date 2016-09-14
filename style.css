@@ -1,0 +1,18 @@
+/* --- Components design --- */
+@import url("components/banner.css");
+
+
+/*Google Fonts*/
+<style>
+@import 'https://fonts.googleapis.com/css?family=Bangers|Righteous';
+</style>
+/*font-family: 'Righteous', cursive;
+font-family: 'Bangers', cursive;*/
+
+/*General Styling*/
+body{
+	background: rgb(30,30,30);
+}
+.container-fluid{
+	padding: 0;
+}

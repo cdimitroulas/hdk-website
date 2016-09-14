@@ -1,0 +1,32 @@
+.banner{
+	height: 75vh;
+	color: white;
+	background: linear-gradient(120deg,
+								rgba(0,0,0, 0.8) 0%,
+								rgba(0,0,0, 0.1) 60%),
+						url('https://f4.bcbits.com/img/0005879741_10.jpg');
+	background-size: cover;
+	position: relative;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	text-align: center;
+	padding: 10px;
+}
+.banner h1{
+	font-size: 100px;
+	font-family: 'Righteous', cursive;
+}
+.banner h3{
+	font-size: 30px;
+	font-family: 'Bangers', cursive;
+	color: rgba(235, 235, 235, 0.9);
+	margin-bottom: 50px;
+}
+.form-group {
+	display: flex;
+	justify-content: space-between;
+}
+.form-item{
+	
+}
