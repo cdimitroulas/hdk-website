@@ -30,3 +30,14 @@
 .form-item{
 	
 }
+.socialmedia-buttons {
+	font-size: 25px;
+	color: rgb(230,230,230);
+	position: relative;
+	top: 20px;
+	left: 20px;
+}
+#bandcamp {
+	height: 25px;
+	width: 25px;
+}
