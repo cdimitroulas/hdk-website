@@ -11,9 +11,15 @@
 font-family: 'Bangers', cursive;*/
 
 /*General Styling*/
-body{
+body {
 }
-
 .container-fluid{
 	padding: 0;
+	background-image: url("https://hd.unsplash.com/photo-1421717168410-2680ae3ecfe5");
+}
+.container-fluid .container {
+	border-radius: 3px;
+	opacity: 0.95;
+	width: 85%;
+	margin: auto;
 }

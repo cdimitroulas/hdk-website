@@ -1,14 +1,18 @@
-.bandcamp-content {
+.about-hdk {
 	background-color: #303030;
 }
 #bio{
 	font-family: 'Bangers', cursive;
+	font-size: 17px;
 	color: rgba(255,255,255,0.6);
-	padding: 50px;
-	padding-left: 70px;
+	padding: 10px 35px 10px 30px;
 	line-height: 30px;
-
+	text-align: justify;
 }
-#bandcamp-embed{
-	margin-left: 50px;
+p:nth-child(3) {
+	padding-top: 15px;
+	text-align: center;
+}
+iframe {
+	margin-left: 30px;
 }
