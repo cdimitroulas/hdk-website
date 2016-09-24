@@ -1,9 +1,9 @@
 .banner{
 	height: 100vh;
 	color: white;
-	background: linear-gradient(120deg,
+	background: linear-gradient(0deg,
 								rgba(0,0,0, 0.8) 0%,
-								rgba(0,0,0, 0.1) 60%),
+								rgba(0,0,0, 0.2) 70%),
 						url('https://f4.bcbits.com/img/0005879741_10.jpg');
 	background-size: cover;
 	background-position: center;
@@ -40,8 +40,9 @@
     font-size: 25px;
     position: absolute;
 	margin-bottom: 0;
-	top: 10px;
-    left: 200px;    
+	top: 0px;
+    left: 200px;  
+    padding-top: 10px;  
 }
 ul li i {
 	height: 35px;
@@ -65,7 +66,7 @@ ul li i:hover, #bandcamp:hover{
 .fa-facebook {
 	color: #FFFFFF;
 	background:#3b5998;
-
+	padding-left: 10px;
 }
 .fa-twitter {
 	color: #FFFFFF;
