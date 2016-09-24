@@ -1,5 +1,19 @@
-.about-hdk {
+.section-headings{
+	position: relative;
+	top: -50px;
+	left: 25px;
+	width: 130px;
+	margin-bottom: -30px;
+	padding-left: 20px;
+	padding-bottom: 0;
+	border-radius: 25px 25px 0 0;
+	background-color: #202020;
+	color: rgba(190,190,190,0.5);
+}
+.content-section {
 	background-color: #303030;
+	margin-top: 0;
+	padding-top: 0;
 }
 #bio{
 	font-family: 'Bangers', cursive;
