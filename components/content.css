@@ -32,7 +32,7 @@
 }
 .box {
 	flex: auto;
-	flex-direction: column;
+	/*flex-direction: column;*/
 }
 #about {
 	padding-top: 50px;
