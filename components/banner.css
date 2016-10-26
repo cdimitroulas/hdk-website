@@ -32,16 +32,14 @@
 	display: flex;
 	justify-content: space-between;
 }
-.form-item{
-	
-}
+
 .socialmedia-buttons {
-    font-size: 25px;
-    position: absolute;
+  font-size: 25px;
+  position: absolute;
 	margin-bottom: 0;
 	top: 0px;
-    left: 200px;  
-    padding-top: 10px;  
+  left: 100px;
+  padding-top: 10px;
 }
 ul li i {
 	height: 35px;
